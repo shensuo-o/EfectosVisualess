@@ -48,7 +48,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SSS_Size: 3
-    - _VertexIntensity: 0.157
+    - _VertexIntensity: 0.192
     m_Colors:
     - _SSS_Color: {r: 0.21176472, g: 0.29803923, b: 0.16470589, a: 1}
     - _VertexOffset: {r: 0.25, g: 0, b: 0, a: 0}
